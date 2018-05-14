@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 1, 2017, 12:45:23 AM
+    Author     : ROG
+*/
+
+table {
+    width: 850px;
+    padding: 4px;
+    background-color: darkkhaki;
+}
+
+body {
+    font-family: Century, Malgun Gothic, sans-serif;
+    font-size: smaller;
+    padding: 70px;
+    color: navy;
+}
+
+H1 {
+    text-align: center;
+    letter-spacing: 6px;
+    font-size: 1.8em;
+    color: darkred;
+    font-weight: normal;
+    width: 450px;
+}
